@@ -134,6 +134,7 @@ JOptionPane.showMessageDialog(puzzle.this,"!!!you won!!!");
    
   //what is tis
 //comment 2
+//wegdg thrtrher
 public static void main(String[] args){  
 new puzzle();  
 }//end of main  
